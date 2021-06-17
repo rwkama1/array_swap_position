@@ -1,0 +1,16 @@
+{
+  "name": "array_swap_position",
+  "version": "1.0.0",
+  "description": "Make an algorithm that reads a N-element vector and swaps the positions of its elements so that the first element becomes the last and the last the first, the second the penultimate, and so on, and prints that vector.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/randomnumber_array_without_repeating"
+  },
+ 
+  "keywords": ["js","javascript","calculation","array","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
